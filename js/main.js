@@ -209,6 +209,4 @@ document.addEventListener('DOMContentLoaded', () => {
     '.menu .container'
   ).render();
 
-
-
 });
