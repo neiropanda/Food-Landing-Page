@@ -1,6 +1,4 @@
-function timer() {
-
-  const deadLine = '2020-06-30';
+function timer(id, deadLine) {
 
   function getTimeRamaining(endtime) {
 
@@ -51,7 +49,7 @@ function timer() {
     };
   };
 
-  setClock('.timer', deadLine);
+  setClock(id, deadLine);
 }
 
-module.exports = timer();
+export default timer;
