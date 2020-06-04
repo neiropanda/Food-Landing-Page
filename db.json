@@ -1,5 +1,6 @@
 {
-  "menu": [{
+  "menu": [
+    {
       "img": "img/tabs/vegy.jpg",
       "altimg": "vegy",
       "title": "Меню 'Фитнес'",
@@ -21,7 +22,8 @@
       "price": 21
     }
   ],
-  "requests": [{
+  "requests": [
+    {
       "name": "English",
       "phone": "+38 096 970 6248",
       "id": 1
@@ -35,6 +37,16 @@
       "name": "ubertest",
       "phone": "+38 096 970 6248",
       "id": 3
+    },
+    {
+      "name": "English",
+      "phone": "+38 (098) 952-8894",
+      "id": 4
+    },
+    {
+      "name": "cyberpanda",
+      "phone": "+38 (098) 952-8894",
+      "id": 5
     }
   ]
 }
